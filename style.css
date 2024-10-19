@@ -262,6 +262,10 @@ section.inferior-do-site .flex{
         display: none;
     }
 
+    .contato a {
+        font-size: 10px;
+    }
+
     /* TOPO SITE */
 
     section.topo-do-site {
