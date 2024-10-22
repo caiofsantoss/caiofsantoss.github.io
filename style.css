@@ -235,13 +235,17 @@ section.inferior-do-site .flex{
 .inferior-do-site img {
     border-radius: 5px;
     height: auto;
-    max-width: 420px;
+    max-width: 390px;
 }
 
 .competencias-formacoes {
     padding-top: 50px;
     display: flex;
     justify-content: space-between;
+}
+
+.formacoes {
+    padding-left: 50px;
 }
 
 /* Acaba o sobre */
