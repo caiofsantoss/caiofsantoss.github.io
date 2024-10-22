@@ -119,8 +119,15 @@ section.topo-do-site .flex{
 }
 
 .direita-topo-site {
-    text-align: justify;
     max-width: 300px;
+}
+
+.direita-topo-site p {
+    text-align: justify;
+}
+
+.span-interesses {
+    text-align: center;
 }
 
 .links-pessoais {
@@ -320,8 +327,8 @@ section.inferior-do-site .flex{
     }
 
     .formacoes {
-        padding-bottom: 50px;
         padding-left: 0;
+        padding-bottom: 50px;
     }
 
 }
