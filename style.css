@@ -118,6 +118,11 @@ section.topo-do-site .flex{
     font-weight: 200;
 }
 
+.direita-topo-site {
+    text-align: justify;
+    max-width: 300px;
+}
+
 .links-pessoais {
     margin-top: 40px;
     
@@ -220,6 +225,7 @@ section.inferior-do-site .flex{
 .inferior-do-site p {
     font-size: 18px;
     font-weight: 200;
+    text-align: justify;
 }
 
 .inferior-do-site span {
@@ -306,6 +312,7 @@ section.inferior-do-site .flex{
 
     .competencias {
         padding-bottom: 50px;
+        
     }
 
     .formacoes {
